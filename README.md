@@ -7,4 +7,4 @@ The HTML and CSS were provided but my js file is what makes the password generat
 
 A future improvement of this project will include removing the confirms and having the character selection done in the actual page.
 
-deployed link: 
+deployed link: https://npagaduan.github.io/custom-password-maker/
